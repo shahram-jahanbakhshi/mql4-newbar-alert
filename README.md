@@ -2,7 +2,7 @@
 
 A lightweight MQL4 class to detect **new bar events** across multiple timeframes simultaneously and trigger alerts in MetaTrader 4.
 
-![Alert Popup](Screenshots/alert-popup.png)
+![Alert Popup](multi time frame Alert.png)
 
 ## ✨ Features
 
