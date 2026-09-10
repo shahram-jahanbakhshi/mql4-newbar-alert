@@ -60,8 +60,8 @@ The class stores the last bar time per timeframe internally, so no duplicate ale
 This project is licensed under the MIT License – see the LICENSE file for details.
 
 ## 👤 Author
-Your Name – GitHub
+Shahram Jahanbakhshi – GitHub
 
 text
 
-Feel free to replace `Your Name` and `USERNAME` with your own details. If you'd like me to add badges (e.g., MQL4, MIT) or a Table of Contents, just let me know!
+Feel free to replace `shahram` and `shahram - jahanbakhshi` with your own details. If you'd like me to add badges (e.g., MQL4, MIT) or a Table of Contents, just let me know!
